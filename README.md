@@ -10,8 +10,15 @@
 3. Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта ```go test .``` и  ```docker build .```.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
 Ответ:
 ![1-1](https://github.com/Zikin18/SYS-25_8.02/blob/master/1-1.png)
+![1-2](https://github.com/Zikin18/SYS-25_8.02/blob/master/1-2.png)
+![1-3](https://github.com/Zikin18/SYS-25_8.02/blob/master/1-3.png)
+![1-4](https://github.com/Zikin18/SYS-25_8.02/blob/master/1-4.png)
+![1-5](https://github.com/Zikin18/SYS-25_8.02/blob/master/1-5.png)
+![1-6](https://github.com/Zikin18/SYS-25_8.02/blob/master/1-6.png)
+![1-7](https://github.com/Zikin18/SYS-25_8.02/blob/master/1-7.png)
 
 ---
 
@@ -23,6 +30,10 @@
 2. Перепишите сборку из задания 1 на declarative в виде кода.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+Ответ:
+![2-1](https://github.com/Zikin18/SYS-25_8.02/blob/master/2-1.png)
+![2-2](https://github.com/Zikin18/SYS-25_8.02/blob/master/2-2.png)
 
 ---
 
@@ -36,3 +47,9 @@
 1. Загрузите файл в репозиторий с помощью jenkins.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+Ответ:
+![3-1](https://github.com/Zikin18/SYS-25_8.02/blob/master/3-1.png)
+![3-2](https://github.com/Zikin18/SYS-25_8.02/blob/master/3-2.png)
+![3-3](https://github.com/Zikin18/SYS-25_8.02/blob/master/3-3.png)
+![3-4](https://github.com/Zikin18/SYS-25_8.02/blob/master/3-4.png)
